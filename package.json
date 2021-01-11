@@ -15,5 +15,8 @@
   "files": [
     "css/*",
     "fonts/*"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
