@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Dubai";
+  src: url("../fonts/DubaiW23-Light.eot#iefix") format("embedded-opentype"),
+    url("../fonts/DubaiW23-Light.woff") format("woff"),
+    url("../fonts/DubaiW23-Light.ttf") format("truetype"),
+    url("../fonts/DubaiW23-Light.woff2#DubaiW23-Light") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dubai";
+  src: url("../fonts/DubaiW23-Regular.eot#iefix") format("embedded-opentype"),
+    url("../fonts/DubaiW23-Regular.woff") format("woff"),
+    url("../fonts/DubaiW23-Regular.ttf") format("truetype"),
+    url("../fonts/DubaiW23-Regular.woff2#DubaiW23-Regular") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dubai";
+  src: url("../fonts/DubaiW23-Medium.eot#iefix") format("embedded-opentype"),
+    url("../fonts/DubaiW23-Medium.woff") format("woff"),
+    url("../fonts/DubaiW23-Medium.ttf") format("truetype"),
+    url("../fonts/DubaiW23-Medium.woff2#DubaiW23-Medium") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Dubai";
+  src: url("../fonts/DubaiW23-Bold.eot#iefix") format("embedded-opentype"),
+    url("../fonts/DubaiW23-Bold.woff") format("woff"),
+    url("../fonts/DubaiW23-Bold.ttf") format("truetype"),
+    url("../fonts/DubaiW23-Bold.woff2#DubaiW23-Bold") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

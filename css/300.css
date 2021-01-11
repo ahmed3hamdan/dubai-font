@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Dubai";
+  src: url("../fonts/DubaiW23-Light.eot#iefix") format("embedded-opentype"),
+    url("../fonts/DubaiW23-Light.woff") format("woff"),
+    url("../fonts/DubaiW23-Light.ttf") format("truetype"),
+    url("../fonts/DubaiW23-Light.woff2#DubaiW23-Light") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}

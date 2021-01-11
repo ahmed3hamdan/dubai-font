@@ -1,0 +1,19 @@
+{
+  "name": "@ahmedhamdan/dubai-font",
+  "version": "1.0.0",
+  "description": "Dubai Font Face",
+  "main": "css/index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed3hamdan/dubai-font.git"
+  },
+  "author": "Ahmed Hamdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed3hamdan/dubai-font/issues"
+  },
+  "files": [
+    "css/*",
+    "fonts/*"
+  ]
+}
